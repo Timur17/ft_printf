@@ -6,15 +6,11 @@
 /*   By: skrystin <skrystin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/06/10 17:53:09 by wtorwold          #+#    #+#             */
-/*   Updated: 2019/07/16 16:12:57 by skrystin         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:04:02 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdarg.h>
-#include <string.h>
-#include "libft/libft.h"
 #include "printf.h"
-#include "string.h"
 
 int					print(t_pattern tmp, va_list factor)
 {

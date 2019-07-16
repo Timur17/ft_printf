@@ -6,7 +6,7 @@
 /*   By: skrystin <skrystin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/13 20:19:31 by wtorwold          #+#    #+#             */
-/*   Updated: 2019/07/16 18:34:01 by wtorwold         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:28:22 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -75,7 +75,6 @@ char			*ft_strjoin(char const *s1, char const *s2);
 int				ft_countword(char const *str, char c);
 char			**ft_strsplit(char const *str, char c);
 char			**ft_arrsplit(char const *str, int count, char **arr, char c);
-char			*ft_arrmem(char const *str, int index, char c);
 void			ft_memdel(void **ap);
 void			ft_strdel(char **as);
 t_list			*ft_lstnew(void const *content, size_t content_size);

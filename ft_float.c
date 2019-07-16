@@ -3,19 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_float.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: skrystin <skrystin@student.42.fr>          +#+  +:+       +#+        */
+/*   By: wtorwold <wtorwold@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/04 17:47:46 by skrystin          #+#    #+#             */
-/*   Updated: 2019/07/14 22:37:10 by wtorwold         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:22:02 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <stdarg.h>
-#include <string.h>
-#include "libft/libft.h"
 #include "printf.h"
-#include <float.h>
 
 char		*ft_sumdel(char **first, int step)
 {

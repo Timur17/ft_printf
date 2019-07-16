@@ -3,19 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_float4.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: skrystin <skrystin@student.42.fr>          +#+  +:+       +#+        */
+/*   By: wtorwold <wtorwold@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/10 20:21:28 by skrystin          #+#    #+#             */
-/*   Updated: 2019/07/10 20:29:27 by skrystin         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:21:10 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <stdarg.h>
-#include <string.h>
-#include "libft/libft.h"
 #include "printf.h"
-#include <float.h>
 
 void	ft_roundtwo(char **ost, t_pattern tmp, char **one, char **tofree)
 {

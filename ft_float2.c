@@ -3,19 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_float2.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: skrystin <skrystin@student.42.fr>          +#+  +:+       +#+        */
+/*   By: wtorwold <wtorwold@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/10 20:15:30 by skrystin          #+#    #+#             */
-/*   Updated: 2019/07/10 20:16:15 by skrystin         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:21:48 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <stdarg.h>
-#include <string.h>
-#include "libft/libft.h"
 #include "printf.h"
-#include <float.h>
 
 char	*ft_sum(char *first, char *second)
 {

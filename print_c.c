@@ -3,14 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   print_c.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wtorwold <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: wtorwold <wtorwold@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/03 15:28:46 by wtorwold          #+#    #+#             */
-/*   Updated: 2019/07/14 20:18:43 by wtorwold         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:16:11 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft/libft.h"
 #include "printf.h"
 
 void			print_c(t_pattern tmp, char c)

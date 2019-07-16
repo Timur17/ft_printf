@@ -1,16 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_printf.c                                        :+:      :+:    :+:   */
+/*   print_int2.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wtorwold <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: wtorwold <wtorwold@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/06/10 17:53:09 by wtorwold          #+#    #+#             */
-/*   Updated: 2019/07/14 23:02:58 by wtorwold         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:15:58 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft/libft.h"
 #include "printf.h"
 
 void				print_help(int pre, intmax_t *digit)

@@ -6,11 +6,10 @@
 /*   By: wtorwold <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/03 15:28:46 by wtorwold          #+#    #+#             */
-/*   Updated: 2019/07/14 20:32:24 by wtorwold         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:12:29 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft/libft.h"
 #include "printf.h"
 
 char		*print_s_help(t_pattern tmp, va_list factor)

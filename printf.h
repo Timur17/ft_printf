@@ -6,7 +6,7 @@
 /*   By: wtorwold <wtorwold@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/06/10 17:53:09 by wtorwold          #+#    #+#             */
-/*   Updated: 2019/07/16 18:27:49 by wtorwold         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:06:29 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,7 @@
 # define PRINTF_H
 # include <stdarg.h>
 # include <string.h>
+# include <stdint.h>
 # include <limits.h>
 # include "libft/libft.h"
 

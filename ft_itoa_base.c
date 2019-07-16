@@ -6,12 +6,11 @@
 /*   By: wtorwold <wtorwold@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/03 21:05:41 by skrystin          #+#    #+#             */
-/*   Updated: 2019/07/14 20:35:41 by wtorwold         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:20:32 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft/libft.h"
-#include <limits.h>
+#include "printf.h"
 
 char			*ft_helpitoa(uintmax_t value, uintmax_t base,
 uintmax_t len, uintmax_t nbr)

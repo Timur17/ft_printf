@@ -6,11 +6,10 @@
 /*   By: wtorwold <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/06/10 17:53:09 by wtorwold          #+#    #+#             */
-/*   Updated: 2019/07/14 23:04:20 by wtorwold         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:12:07 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft/libft.h"
 #include "printf.h"
 
 void				print_int_help(t_pattern tmp,

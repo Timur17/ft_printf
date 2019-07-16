@@ -6,16 +6,11 @@
 /*   By: wtorwold <wtorwold@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/10 20:13:19 by skrystin          #+#    #+#             */
-/*   Updated: 2019/07/12 17:49:54 by wtorwold         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:18:37 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <stdarg.h>
-#include <string.h>
-#include "libft/libft.h"
 #include "printf.h"
-#include <limits.h>
 
 void	ft_strcapitalize(char **str, uintmax_t nmr)
 {

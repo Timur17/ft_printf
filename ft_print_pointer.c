@@ -6,16 +6,11 @@
 /*   By: wtorwold <wtorwold@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/07 16:37:41 by skrystin          #+#    #+#             */
-/*   Updated: 2019/07/12 17:49:53 by wtorwold         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:18:50 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <stdarg.h>
-#include <string.h>
-#include "libft/libft.h"
 #include "printf.h"
-#include <limits.h>
 
 void	ft_alternative(t_pattern *tmp, uintmax_t ptr)
 {

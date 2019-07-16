@@ -3,19 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_float3.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: skrystin <skrystin@student.42.fr>          +#+  +:+       +#+        */
+/*   By: wtorwold <wtorwold@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/10 20:17:58 by skrystin          #+#    #+#             */
-/*   Updated: 2019/07/10 20:29:29 by skrystin         ###   ########.fr       */
+/*   Updated: 2019/07/16 20:21:38 by wtorwold         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <stdarg.h>
-#include <string.h>
-#include "libft/libft.h"
 #include "printf.h"
-#include <float.h>
 
 void	ft_print_krit2(t_pattern tmp, double nbr, int step, int index)
 {
